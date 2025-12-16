@@ -33,3 +33,6 @@ build/
 
 ### VS Code ###
 .vscode/
+.sdkman/
+setup-java17.ps1
+use-java17.ps1
